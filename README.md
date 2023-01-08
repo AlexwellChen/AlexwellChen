@@ -1,4 +1,4 @@
-### Hi there, I'm Fangzhou👋
+### Hi there, I'm Fangzhou 👋
 
 - 🇸🇪 High Performance Computer System, Master Student @Chalmers University of Technology, Gothenburg
 - 🇨🇳 Software Engineering, Bachelor @Northwestern Polytechnical University, Xi'an
