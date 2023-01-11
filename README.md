@@ -7,4 +7,3 @@
 - 🏃 Jogging
 - 📷 Photography
 - 📄 Thesis Worker @Volvo Group
-- 💻 AI Computing Developer @Baidu, 昆仑芯
